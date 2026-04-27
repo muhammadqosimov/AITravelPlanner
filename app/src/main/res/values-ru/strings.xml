@@ -1,0 +1,126 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">AI Планировщик путешествий</string>
+    <string name="app_tagline">Планируй путешествие с ИИ</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_planner">Планировщик</string>
+    <string name="nav_destinations">Направления</string>
+    <string name="nav_flights">Рейсы</string>
+    <string name="nav_saved">Сохранённые</string>
+
+    <!-- Home Screen -->
+    <string name="home_greeting">Куда едем?</string>
+    <string name="home_subtitle">Позвольте ИИ спланировать ваше путешествие</string>
+    <string name="home_plan_trip">Спланировать поездку</string>
+    <string name="home_find_destination">Найти направление</string>
+    <string name="home_book_flight">Забронировать рейс</string>
+    <string name="home_saved_trips">Сохранённые поездки</string>
+    <string name="home_settings">Настройки</string>
+    <string name="home_about">О приложении</string>
+    <string name="home_quick_actions">Быстрые действия</string>
+    <string name="home_plan_trip_desc">Создать маршрут с помощью ИИ</string>
+    <string name="home_find_destination_desc">Открыть новые направления</string>
+    <string name="home_book_flight_desc">Найти и забронировать рейсы</string>
+
+    <!-- Travel Planner Screen -->
+    <string name="planner_title">Планировщик путешествий</string>
+    <string name="planner_subtitle">Расскажите ИИ о вашей поездке</string>
+    <string name="planner_departure">Город отправления</string>
+    <string name="planner_destination">Место назначения</string>
+    <string name="planner_budget">Бюджет (USD)</string>
+    <string name="planner_days">Количество дней</string>
+    <string name="planner_travel_style">Стиль путешествия</string>
+    <string name="planner_generate">Создать маршрут</string>
+    <string name="planner_save">Сохранить поездку</string>
+    <string name="planner_saved_success">Поездка успешно сохранена!</string>
+    <string name="planner_style_luxury">Люкс</string>
+    <string name="planner_style_budget">Бюджетный</string>
+    <string name="planner_style_adventure">Приключения</string>
+    <string name="planner_style_family">Семейный</string>
+    <string name="planner_generating">Создаём ваш маршрут…</string>
+    <string name="planner_result_title">Ваш маршрут путешествия</string>
+
+    <!-- Destination Finder Screen -->
+    <string name="destination_title">Поиск направлений</string>
+    <string name="destination_subtitle">Не знаете куда ехать? Пусть ИИ решит!</string>
+    <string name="destination_budget">Ваш бюджет (USD)</string>
+    <string name="destination_weather">Предпочитаемый климат (необязательно)</string>
+    <string name="destination_duration">Длительность поездки в днях (необязательно)</string>
+    <string name="destination_style">Стиль путешествия (необязательно)</string>
+    <string name="destination_find">Найти направления</string>
+    <string name="destination_surprise">✨ Удиви меня!</string>
+    <string name="destination_finding">Ищем направления…</string>
+    <string name="destination_results_title">Предлагаемые направления</string>
+    <string name="destination_save">Сохранить направление</string>
+    <string name="destination_saved_success">Направление сохранено!</string>
+    <string name="destination_estimated_cost">Примерная стоимость</string>
+    <string name="destination_best_time">Лучшее время для посещения</string>
+    <string name="destination_attractions">Главные достопримечательности</string>
+    <string name="destination_why_match">Почему это подходит</string>
+
+    <!-- Flight Booking Screen -->
+    <string name="flight_title">Бронирование рейсов</string>
+    <string name="flight_subtitle">Поиск рейсов</string>
+    <string name="flight_from">Откуда (Город)</string>
+    <string name="flight_to">Куда (Город)</string>
+    <string name="flight_date">Дата поездки</string>
+    <string name="flight_search">Найти рейсы</string>
+    <string name="flight_searching">Поиск…</string>
+    <string name="flight_results_title">Доступные рейсы</string>
+    <string name="flight_book">Забронировать</string>
+    <string name="flight_booked_title">Бронирование подтверждено!</string>
+    <string name="flight_booked_message">Ваш рейс успешно забронирован. Приятного путешествия!</string>
+    <string name="flight_booked_ok">Отлично!</string>
+    <string name="flight_stops_direct">Прямой</string>
+    <string name="flight_stops_one">1 пересадка</string>
+    <string name="flight_stops_multi">%d пересадки</string>
+    <string name="flight_duration">Длительность</string>
+    <string name="flight_price_from">от</string>
+
+    <!-- Saved Trips Screen -->
+    <string name="saved_title">Сохранённые поездки</string>
+    <string name="saved_trips_tab">Маршруты</string>
+    <string name="saved_destinations_tab">Направления</string>
+    <string name="saved_empty_trips">Нет сохранённых поездок.\nСпланируйте поездку и сохраните её!</string>
+    <string name="saved_empty_destinations">Нет сохранённых направлений.\nИспользуйте поиск направлений!</string>
+    <string name="saved_delete">Удалить</string>
+    <string name="saved_delete_confirm">Вы уверены, что хотите удалить это?</string>
+    <string name="saved_confirm_yes">Удалить</string>
+    <string name="saved_confirm_no">Отмена</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Настройки</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_ru">Русский</string>
+    <string name="settings_language_uz">O\'zbekcha</string>
+    <string name="settings_dark_mode">Тёмный режим</string>
+    <string name="settings_clear_trips">Очистить все поездки</string>
+    <string name="settings_clear_confirm">Это удалит все сохранённые поездки и направления. Продолжить?</string>
+    <string name="settings_cleared">Все данные удалены.</string>
+    <string name="settings_appearance">Внешний вид</string>
+    <string name="settings_data">Данные</string>
+
+    <!-- About Screen -->
+    <string name="about_title">О приложении</string>
+    <string name="about_app_name">AI Планировщик путешествий</string>
+    <string name="about_version">Версия 1.0</string>
+    <string name="about_description">AI Планировщик путешествий — это учебный проект, демонстрирующий интеграцию Google Gemini AI с современным Android-приложением на Jetpack Compose и MVVM архитектуре.</string>
+    <string name="about_developer">Разработчик</string>
+    <string name="about_university">Университетский проект</string>
+    <string name="about_tech_stack">Технологии</string>
+    <string name="about_tech_list">Kotlin • Jetpack Compose • Gemini AI\nHilt DI • Room DB • Retrofit\nNavigation Compose • Material 3</string>
+    <string name="about_powered_by">На базе Google Gemini AI</string>
+
+    <!-- Common -->
+    <string name="btn_back">Назад</string>
+    <string name="btn_close">Закрыть</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="error_generic">Что-то пошло не так. Попробуйте снова.</string>
+    <string name="error_api_key">API-ключ Gemini не настроен. Добавьте его в local.properties.</string>
+    <string name="error_network">Ошибка сети. Проверьте подключение.</string>
+    <string name="field_required">Это поле обязательно</string>
+</resources>

@@ -1,0 +1,126 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">AI Sayohat Rejalashtiruvchi</string>
+    <string name="app_tagline">AI bilan ideal sayohatingizni rejalashtiring</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Bosh sahifa</string>
+    <string name="nav_planner">Rejalashtiruvchi</string>
+    <string name="nav_destinations">Manzillar</string>
+    <string name="nav_flights">Reyslar</string>
+    <string name="nav_saved">Saqlangan</string>
+
+    <!-- Home Screen -->
+    <string name="home_greeting">Keyingi manzil?</string>
+    <string name="home_subtitle">AI sizning mukammal sayohatingizni rejalashtiradi</string>
+    <string name="home_plan_trip">Sayohat Rejalashtirish</string>
+    <string name="home_find_destination">Manzil Topish</string>
+    <string name="home_book_flight">Reys Buyurtma</string>
+    <string name="home_saved_trips">Saqlangan Sayohatlar</string>
+    <string name="home_settings">Sozlamalar</string>
+    <string name="home_about">Ilova haqida</string>
+    <string name="home_quick_actions">Tezkor Harakatlar</string>
+    <string name="home_plan_trip_desc">AI bilan sayohat marshrutini yarating</string>
+    <string name="home_find_destination_desc">Yangi manzillarni kashf eting</string>
+    <string name="home_book_flight_desc">Reyslarni qidiring va buyurtma bering</string>
+
+    <!-- Travel Planner Screen -->
+    <string name="planner_title">Sayohat Rejalashtiruvchi</string>
+    <string name="planner_subtitle">AI ga sayohatingiz haqida aytib bering</string>
+    <string name="planner_departure">Jo\'nab ketish shahri</string>
+    <string name="planner_destination">Manzil</string>
+    <string name="planner_budget">Byudjet (USD)</string>
+    <string name="planner_days">Kun soni</string>
+    <string name="planner_travel_style">Sayohat uslubi</string>
+    <string name="planner_generate">Marshrut Yaratish</string>
+    <string name="planner_save">Sayohatni Saqlash</string>
+    <string name="planner_saved_success">Sayohat muvaffaqiyatli saqlandi!</string>
+    <string name="planner_style_luxury">Hashamatli</string>
+    <string name="planner_style_budget">Tejamkor</string>
+    <string name="planner_style_adventure">Sarguzasht</string>
+    <string name="planner_style_family">Oilaviy</string>
+    <string name="planner_generating">Marshrutingiz tayyorlanmoqda…</string>
+    <string name="planner_result_title">Sizning Sayohat Marshrutingiz</string>
+
+    <!-- Destination Finder Screen -->
+    <string name="destination_title">Manzil Qidiruvchi</string>
+    <string name="destination_subtitle">Qayerga borishni bilmaysizmi? AI hal qiladi!</string>
+    <string name="destination_budget">Byudjetingiz (USD)</string>
+    <string name="destination_weather">Afzal iqlim (ixtiyoriy)</string>
+    <string name="destination_duration">Sayohat muddati kunlarda (ixtiyoriy)</string>
+    <string name="destination_style">Sayohat uslubi (ixtiyoriy)</string>
+    <string name="destination_find">Manzillarni Topish</string>
+    <string name="destination_surprise">✨ Meni Hayratlantir!</string>
+    <string name="destination_finding">Manzillar qidirilmoqda…</string>
+    <string name="destination_results_title">Tavsiya Etilgan Manzillar</string>
+    <string name="destination_save">Manzilni Saqlash</string>
+    <string name="destination_saved_success">Manzil saqlandi!</string>
+    <string name="destination_estimated_cost">Taxminiy narx</string>
+    <string name="destination_best_time">Eng yaxshi tashrif vaqti</string>
+    <string name="destination_attractions">Asosiy diqqatga sazovor joylar</string>
+    <string name="destination_why_match">Nima uchun mos keladi</string>
+
+    <!-- Flight Booking Screen -->
+    <string name="flight_title">Reys Buyurtma</string>
+    <string name="flight_subtitle">Simulyatsiya qilingan reyslarni qidiring</string>
+    <string name="flight_from">Qayerdan (Shahar)</string>
+    <string name="flight_to">Qayerga (Shahar)</string>
+    <string name="flight_date">Sayohat sanasi</string>
+    <string name="flight_search">Reyslarni Qidirish</string>
+    <string name="flight_searching">Qidirilmoqda…</string>
+    <string name="flight_results_title">Mavjud Reyslar</string>
+    <string name="flight_book">Hozir Buyurtma Berish</string>
+    <string name="flight_booked_title">Buyurtma Tasdiqlandi!</string>
+    <string name="flight_booked_message">Reysningiz muvaffaqiyatli buyurtma qilindi. Yaxshi sayohat!</string>
+    <string name="flight_booked_ok">Ajoyib!</string>
+    <string name="flight_stops_direct">To\'g\'ridan-to\'g\'ri</string>
+    <string name="flight_stops_one">1 to\'xtash</string>
+    <string name="flight_stops_multi">%d to\'xtash</string>
+    <string name="flight_duration">Davomiyligi</string>
+    <string name="flight_price_from">dan boshlab</string>
+
+    <!-- Saved Trips Screen -->
+    <string name="saved_title">Saqlangan Sayohatlar</string>
+    <string name="saved_trips_tab">Marshrutlar</string>
+    <string name="saved_destinations_tab">Manzillar</string>
+    <string name="saved_empty_trips">Hali saqlangan sayohatlar yo\'q.\nSayohat rejalashtiring va bu yerda saqlang!</string>
+    <string name="saved_empty_destinations">Hali saqlangan manzillar yo\'q.\nManzil Qidiruvchisini ishlatib ko\'ring!</string>
+    <string name="saved_delete">O\'chirish</string>
+    <string name="saved_delete_confirm">Haqiqatan ham o\'chirmoqchimisiz?</string>
+    <string name="saved_confirm_yes">O\'chirish</string>
+    <string name="saved_confirm_no">Bekor qilish</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Sozlamalar</string>
+    <string name="settings_language">Til</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_ru">Русский</string>
+    <string name="settings_language_uz">O\'zbekcha</string>
+    <string name="settings_dark_mode">Tungi rejim</string>
+    <string name="settings_clear_trips">Barcha sayohatlarni tozalash</string>
+    <string name="settings_clear_confirm">Bu barcha saqlangan sayohatlar va manzillarni o\'chiradi. Davom etasizmi?</string>
+    <string name="settings_cleared">Barcha ma\'lumotlar tozalandi.</string>
+    <string name="settings_appearance">Ko\'rinish</string>
+    <string name="settings_data">Ma\'lumotlar</string>
+
+    <!-- About Screen -->
+    <string name="about_title">Ilova haqida</string>
+    <string name="about_app_name">AI Sayohat Rejalashtiruvchi</string>
+    <string name="about_version">Versiya 1.0</string>
+    <string name="about_description">AI Sayohat Rejalashtiruvchi — bu Google Gemini AI ni Jetpack Compose va MVVM arxitekturasi bilan qurilgan zamonaviy Android ilovasiga integratsiya qilishni ko\'rsatuvchi universitet loyihasi.</string>
+    <string name="about_developer">Dasturchi</string>
+    <string name="about_university">Universitet Loyihasi</string>
+    <string name="about_tech_stack">Texnologiyalar</string>
+    <string name="about_tech_list">Kotlin • Jetpack Compose • Gemini AI\nHilt DI • Room DB • Retrofit\nNavigation Compose • Material 3</string>
+    <string name="about_powered_by">Google Gemini AI asosida</string>
+
+    <!-- Common -->
+    <string name="btn_back">Orqaga</string>
+    <string name="btn_close">Yopish</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Bekor qilish</string>
+    <string name="error_generic">Xato yuz berdi. Qaytadan urinib ko\'ring.</string>
+    <string name="error_api_key">Gemini API kaliti sozlanmagan. Uni local.properties ga qo\'shing.</string>
+    <string name="error_network">Tarmoq xatosi. Internetni tekshiring.</string>
+    <string name="field_required">Bu maydon talab qilinadi</string>
+</resources>

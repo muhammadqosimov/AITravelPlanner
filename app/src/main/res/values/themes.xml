@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppCompat DayNight is sufficient for the window/activity chrome.
+         All Material 3 theming is handled inside Compose via AITravelPlannerTheme. -->
+    <style name="Theme.AITravelPlanner" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+    <style name="Theme.AITravelPlanner.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.AITravelPlanner</item>
+    </style>
+</resources>
